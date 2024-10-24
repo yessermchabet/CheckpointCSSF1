@@ -1,0 +1,98 @@
+#yesser{
+width: 25%;
+}
+
+#accueill{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+}
+#oo{
+    width: 138px;
+    margin: 14px;
+}
+
+.yesser{
+    width: 200px;
+    height: 200px;
+    background-color: black
+}
+#nnn{
+    width: 137px
+}
+#nnn{
+    margin: 21px;   
+}
+
+
+
+#Aproposdenous{
+    display: flex;
+    flex-direction: column;
+    background-color: black
+    
+}
+
+
+h2{
+    text-decoration: underline;
+    font-weight: bold;
+    
+}
+
+
+#mahmoud{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+#titre{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+#walid{
+    width: 600px;
+
+}
+
+#divm{
+    padding: 14px;
+    border: 6px solid black;
+}
+
+#cent{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+#mariem{
+    font-size: 30px;
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    font-family: monospace;
+    color: crimson;
+}
+
+#col{
+    color: wheat;
+}
+
+#wajdi{
+    color: darkmagenta;
+    font-family: cursive;
+    font-size: 23px;
+}
+
